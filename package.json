@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:thomasvergne/ui-framework.git",
   "author": "thomasvergne <thomas@quark-lang.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
